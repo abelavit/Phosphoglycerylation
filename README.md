@@ -1,5 +1,4 @@
 # Phosphoglycerylation
-post-translational modification
 
 There are two sets of data in this repository. 
 
