@@ -1,8 +1,6 @@
 # Phosphoglycerylation
 
-There are two sets of data in this repository. 
+This repository contains extracted data from the 91 protein sequences. A total of 3360 lysine residues were retrieved. The data comprises protein sequence name, feature vector, label (whether phosphoglycerylated for not) and the location of lysine in the protein sequence.
+Feature vector is of 120 dimension pertaining to accessible surface area, amino acid contribution to local structure conformations and backbone torsion angles of seven amino acids downstream and upstream of lysine and lysine itself.
 
-Extracted Data contains the entire sample (lysine residues) obtained from the 91 protein sequences.
-
-Data Samples are 10 folds used in evaluating the PhoglyStruct Predictor (10-fold cross-validation scheme). 
 
